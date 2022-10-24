@@ -26,3 +26,6 @@ elif user_genre == 'экшн':
         print('Мстители финал')
         print('Форсаж')
         print('Драйв')
+        print(1)
+
+
