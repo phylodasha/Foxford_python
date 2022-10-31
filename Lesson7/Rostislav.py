@@ -11,7 +11,6 @@ def newprint(string):
 
 
 guess_number = randint(1, 5)
-print(guess_number)
 
 count_try = 3
 

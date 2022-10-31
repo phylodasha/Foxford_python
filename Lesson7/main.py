@@ -17,7 +17,7 @@ while player_word != guess_word and count_try > 0:
     count_try -= 1
 
 if player_word == guess_word:
-    print('Молодец! Ты угадал число!')
+    print('Молодец! Ты угадал слово!')
 else:
     print('Попробуй сыграть в другой раз!')
 
