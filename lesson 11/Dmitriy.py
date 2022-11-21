@@ -213,3 +213,4 @@ while True:
     break
 if hp <= 0:
   newprint(f'К сожаленю вы погибли! У вас не осталось хп({titru}')
+
