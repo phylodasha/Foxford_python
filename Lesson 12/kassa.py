@@ -17,7 +17,7 @@ def add_product():
 def welcome():
     print('Привет, дорогой покупатель!')
 
-while True:
+while 4==4:
     products = []
     welcome()
     add_product()
